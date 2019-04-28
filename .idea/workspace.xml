@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/LoginPage_One/assets/css/login.css" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f3dc578-a7fe-44fe-9b40-ab18f7d3d4cc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/image/background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/js/bootstrap.bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/js/bootstrap.bundle.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/js/bootstrap.bundle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/js/bootstrap.bundle.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/js/bootstrap.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/js/bootstrap.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/sample/test_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/sample/test_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/sample/test_3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginPage_One/sample/test_4.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LoginPage_One/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="61" column="67" lean-forward="false" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoginPage_One/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="122" column="63" lean-forward="false" selection-start-line="122" selection-start-column="63" selection-end-line="122" selection-end-column="63" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5683#5689#0" expanded="true" />
+                <marker date="1556430387886" expanded="true" signature="3016:4832" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Roboto</find>
+      <find>fundo</find>
+      <find>w-1</find>
+      <find>justify-content-center</find>
+      <find>login-header</find>
+      <find>flex-container-center</find>
+      <find>input-group</find>
+      <find>input-group-prepend</find>
+      <find>fa-envelope</find>
+      <find>input-group-text</find>
+      <find>half</find>
+      <find>fundo-cor</find>
+      <find>login-content</find>
+      <find>核心库（现在</find>
+      <find>container-fluid</find>
+      <find>hero-title</find>
+      <find>\&lt;\!DOCTYPE html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\&lt;head\&gt;\n    \&lt;meta charset\=\&quot;UTF\-8\&quot;\&gt;\n    \&lt;link href\=\&quot;http\:\/\/cdn\.bootcss\.com\/bootstrap\/3\.3\.7\/css\/bootstrap\.min\.css\&quot; rel\=\&quot;stylesheet\&quot;\&gt;\n\n    \&lt;link href\=\&quot;http\:\/\/cdn\.bootcss\.com\/font\-awesome\/4\.7\.0\/css\/font\-awesome\.min\.css\&quot; rel\=\&quot;stylesheet\&quot;\&gt;\n\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;assets\/css\/jquery\.mCustomScrollbar\.min\.css\&quot; \/\&gt;\n\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;assets\/css\/custom\.css\&quot;\&gt;\n\n    \&lt;script src\=\&quot;http\:\/\/cdn\.bootcss\.com\/bootstrap\/3\.3\.7\/js\/bootstrap\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\n    \&lt;script src\=\&quot;assets\/js\/\/jquery\.mCustomScrollbar\.concat\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\n    \&lt;script src\=\&quot;assets\/js\/custom\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;title\&gt;Title\&lt;\/title\&gt;\n\&lt;\/head\&gt;\n\&lt;body\&gt;\n\&lt;div class\=\&quot;page\-wrapper\&quot;\&gt;\n\n    \&lt;nav id\=\&quot;sidebar\&quot; class\=\&quot;sidebar\-wrapper\&quot;\&gt;\n\n        \&lt;div class\=\&quot;sidebar\-content\&quot;\&gt;\n\n            \&lt;a href\=\&quot;\#\&quot; id\=\&quot;toggle\-sidebar\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-bars\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\n\n            \&lt;div class\=\&quot;sidebar\-brand\&quot;\&gt;\n\n                \&lt;a href\=\&quot;\#\&quot;\&gt;pro sidebar\&lt;\/a\&gt;\n\n            \&lt;\/div\&gt;\n\n            \&lt;div class\=\&quot;sidebar\-header\&quot;\&gt;\n\n                \&lt;div class\=\&quot;user\-pic\&quot;\&gt;\n\n                    \&lt;img class\=\&quot;img\-responsive img\-rounded\&quot; src\=\&quot;assets\/img\/user\.jpg\&quot; alt\=\&quot;\&quot;\&gt;\n\n                \&lt;\/div\&gt;\n\n                \&lt;div class\=\&quot;user\-info\&quot;\&gt;\n\n                    \&lt;span class\=\&quot;user\-name\&quot;\&gt;Jhon \&lt;strong\&gt;Smith\&lt;\/strong\&gt;\&lt;\/span\&gt;\n\n                    \&lt;span class\=\&quot;user\-role\&quot;\&gt;Administrator\&lt;\/span\&gt;\n\n                    \&lt;div class\=\&quot;user\-status\&quot;\&gt;\n\n                        \&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;span class\=\&quot;label label\-success\&quot;\&gt;Online\&lt;\/span\&gt;\&lt;\/a\&gt;\n\n                    \&lt;\/div\&gt;\n\n                \&lt;\/div\&gt;\n\n            \&lt;\/div\&gt;\&lt;\!\-\- sidebar\-header  \-\-\&gt;\n\n            \&lt;div class\=\&quot;sidebar\-search\&quot;\&gt;\n\n                \&lt;div\&gt;\n\n                    \&lt;div class\=\&quot;input\-group\&quot;\&gt;\n\n                        \&lt;input type\=\&quot;text\&quot; class\=\&quot;form\-control search\-menu\&quot; placeholder\=\&quot;Search for\.\.\.\&quot;\&gt;\n\n                        \&lt;span class\=\&quot;input\-group\-addon\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-search\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/span\&gt;\n\n                    \&lt;\/div\&gt;\n\n                \&lt;\/div\&gt;\n\n            \&lt;\/div\&gt;\&lt;\!\-\- sidebar\-search  \-\-\&gt;\n\n            \&lt;div class\=\&quot;sidebar\-menu\&quot;\&gt;\n\n                \&lt;ul\&gt;\n\n                    \&lt;li class\=\&quot;header\-menu\&quot;\&gt;\&lt;span\&gt;Dropdown  menu\&lt;\/span\&gt;\&lt;\/li\&gt;\n\n                    \&lt;li class\=\&quot;sidebar\-dropdown\&quot;\&gt;\n\n                        \&lt;a  href\=\&quot;\#\&quot; \&gt;\&lt;i class\=\&quot;fa fa\-tv\&quot;\&gt;\&lt;\/i\&gt;\&lt;span\&gt;Menu 1\&lt;\/span\&gt;\&lt;span class\=\&quot;label label\-danger\&quot;\&gt;New\&lt;\/span\&gt;\&lt;\/a\&gt;\n\n                        \&lt;div class\=\&quot;sidebar\-submenu\&quot;\&gt;\n\n                            \&lt;ul\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 1 \&lt;span class\=\&quot;label label\-success\&quot;\&gt;10\&lt;\/span\&gt;\&lt;\/a\&gt; \&lt;\/li\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 2\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 3\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 4\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                            \&lt;\/ul\&gt;\n\n                        \&lt;\/div\&gt;\n\n                    \&lt;\/li\&gt;\n\n                    \&lt;li class\=\&quot;sidebar\-dropdown\&quot;\&gt;\n\n                        \&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-photo\&quot;\&gt;\&lt;\/i\&gt;\&lt;span\&gt;Menu 2\&lt;\/span\&gt;\&lt;span class\=\&quot;badge\&quot;\&gt;3\&lt;\/span\&gt;\&lt;\/a\&gt;\n\n                        \&lt;div class\=\&quot;sidebar\-submenu\&quot;\&gt;\n\n                            \&lt;ul\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 1 \&lt;span class\=\&quot;badge\&quot;\&gt;2\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 2\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 3\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 4\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                            \&lt;\/ul\&gt;\n\n                        \&lt;\/div\&gt;\n\n                    \&lt;\/li\&gt;\n\n                    \&lt;li class\=\&quot;sidebar\-dropdown\&quot;\&gt;\n\n                        \&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-bar\-chart\-o\&quot;\&gt;\&lt;\/i\&gt;\&lt;span\&gt;Menu 3\&lt;\/span\&gt;\&lt;\/a\&gt;\n\n                        \&lt;div class\=\&quot;sidebar\-submenu\&quot;\&gt;\n\n                            \&lt;ul\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 1\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 2\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 3\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 4\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                            \&lt;\/ul\&gt;\n\n                        \&lt;\/div\&gt;\n\n                    \&lt;\/li\&gt;\n\n                    \&lt;li class\=\&quot;sidebar\-dropdown\&quot;\&gt;\n\n                        \&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-diamond\&quot;\&gt;\&lt;\/i\&gt;\&lt;span\&gt;Menu 4\&lt;\/span\&gt;\&lt;\/a\&gt;\n\n                        \&lt;div class\=\&quot;sidebar\-submenu\&quot;\&gt;\n\n                            \&lt;ul\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 1\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 2\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 3\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;submenu 4\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                            \&lt;\/ul\&gt;\n\n                        \&lt;\/div\&gt;\n\n                    \&lt;\/li\&gt;\n\n                    \&lt;li class\=\&quot;header\-menu\&quot;\&gt;\&lt;span\&gt;Simple menu\&lt;\/span\&gt;\&lt;\/li\&gt;\n\n                    \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-tv\&quot;\&gt;\&lt;\/i\&gt;\&lt;span\&gt;Menu 1\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                    \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-photo\&quot;\&gt;\&lt;\/i\&gt;\&lt;span\&gt;Menu 2\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                    \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-bar\-chart\-o\&quot;\&gt;\&lt;\/i\&gt;\&lt;span\&gt;Menu 3\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                    \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-diamond\&quot;\&gt;\&lt;\/i\&gt;\&lt;span\&gt;Menu 4\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n                \&lt;\/ul\&gt;\n\n            \&lt;\/div\&gt;\&lt;\!\-\- sidebar\-menu  \-\-\&gt;\n\n        \&lt;\/div\&gt;\&lt;\!\-\- sidebar\-content  \-\-\&gt;\n\n\n\n        \&lt;div class\=\&quot;sidebar\-footer\&quot;\&gt;\n\n            \&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-bell\&quot;\&gt;\&lt;\/i\&gt;\&lt;span class\=\&quot;label label\-warning notification\&quot;\&gt;3\&lt;\/span\&gt;\&lt;\/a\&gt;\n\n            \&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-envelope\&quot;\&gt;\&lt;\/i\&gt;\&lt;span class\=\&quot;label label\-success notification\&quot;\&gt;7\&lt;\/span\&gt;\&lt;\/a\&gt;\n\n            \&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-gear\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\n\n            \&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-power\-off\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\n\n        \&lt;\/div\&gt;\n\n    \&lt;\/nav\&gt;\&lt;\!\-\- sidebar\-wrapper  \-\-\&gt;\n\n    \&lt;main class\=\&quot;page\-content\&quot;\&gt;\n\n        \&lt;div class\=\&quot;container\-fluid\&quot;\&gt;\n\n            \&lt;\!\-\- 这里放置页面内容\-\-\&gt;\n\n        \&lt;\/div\&gt;\n\n    \&lt;\/main\&gt;\&lt;\!\-\- page\-content\&quot; \-\-\&gt;\n\n\&lt;\/div\&gt;\&lt;\!\-\- page\-wrapper \-\-\&gt;\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;</find>
+      <find>w-sidebar</find>
+      <find>bg-info</find>
+      <find>bg-dark</find>
+      <find>277cff</find>
+      <find>dropdown-toggle</find>
+      <find>dropdown</find>
+      <find>navbar-right</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>span</replace>
+      <replace>57bcff</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LoginPage_One/css/style.css" />
+        <option value="$PROJECT_DIR$/LoginPage_One/index2.html" />
+        <option value="$PROJECT_DIR$/LoginPage_One/test.html" />
+        <option value="$PROJECT_DIR$/LoginPage_One/test_3.html" />
+        <option value="$PROJECT_DIR$/LoginPage_One/test_2.html" />
+        <option value="$PROJECT_DIR$/LoginPage_One/test_4.html" />
+        <option value="$PROJECT_DIR$/LoginPage_One/sample/test_5.html" />
+        <option value="$PROJECT_DIR$/LoginPage_One/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/LoginPage_One/assets/css/index.css" />
+        <option value="$PROJECT_DIR$/LoginPage_One/index.html" />
+        <option value="$PROJECT_DIR$/LoginPage_One/login.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="723" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoginPage_One" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoginPage_One" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoginPage_One" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoginPage_One" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoginPage_One" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap.css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoginPage_One" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoginPage_One" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoginPage_One" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LoginPage_One/sample" />
+      <recent name="$PROJECT_DIR$/LoginPage_One/assets" />
+      <recent name="$PROJECT_DIR$/LoginPage_One/image" />
+      <recent name="$PROJECT_DIR$/LoginPage_One/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LoginPage_One/assets/plugins" />
+      <recent name="$PROJECT_DIR$/LoginPage_One" />
+      <recent name="$PROJECT_DIR$/LoginPage_One/assets/js" />
+      <recent name="$PROJECT_DIR$/LoginPage_One/assets/css" />
+      <recent name="$PROJECT_DIR$/LoginPage_One/css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f3dc578-a7fe-44fe-9b40-ab18f7d3d4cc" name="Default" comment="" />
+      <created>1556283528661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556283528661</updated>
+      <workItem from="1556283531555" duration="7275000" />
+      <workItem from="1556322523183" duration="7497000" />
+      <workItem from="1556414620299" duration="9662000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24434000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="723" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37807783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/css/bootstrap-theme.css.map" />
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="2613" column="14" lean-forward="false" selection-start-line="2613" selection-start-column="14" selection-end-line="2613" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/css/default.css" />
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/js/pace.min.js" />
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/css/dataurl.css" />
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/css/bootstrap-theme.css" />
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/js/npm.js" />
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/js/default.js" />
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/index2.html" />
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/sample/test_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/sample/test_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="125" column="91" lean-forward="false" selection-start-line="125" selection-start-column="91" selection-end-line="125" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/sample/test_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/sample/test_4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="88" column="91" lean-forward="false" selection-start-line="88" selection-start-column="91" selection-end-line="88" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/plugins/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/sample/test_5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="42" column="13" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="42" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/css/bootstrap.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/plugins/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="5" column="109511" lean-forward="false" selection-start-line="5" selection-start-column="109495" selection-end-line="5" selection-end-column="109511" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="82" column="18" lean-forward="true" selection-start-line="82" selection-start-column="18" selection-end-line="82" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/assets/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="122" column="63" lean-forward="false" selection-start-line="122" selection-start-column="63" selection-end-line="122" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5683#5689#0" expanded="true" />
+            <marker date="1556430387886" expanded="true" signature="3016:4832" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage_One/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="61" column="67" lean-forward="false" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
