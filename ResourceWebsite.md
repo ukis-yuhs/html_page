@@ -8,6 +8,8 @@
 
  * https://www.codeply.com
  * http://www.bitbug.net/
+ * https://shields.io/
+ * https://travis-ci.org
 
 ## Document URL
 
